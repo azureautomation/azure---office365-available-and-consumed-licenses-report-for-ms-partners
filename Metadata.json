@@ -1,0 +1,20 @@
+{
+    "Author": "Maor Bracha",
+    "ContentSize": 2452,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-&-office365-available-and-consumed-licenses-report-for-ms-partners/master/LicensingReport.ps1",
+    "DownloadCount": 1885,
+    "Id": "Azure-Office365-Available-d49ef891",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 94,
+    "RaterCount": 8,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-12-1T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Azure platforms and Office365 licensing report for MS partners using the delegated admin method.",
+    "Title": "Azure & Office365 Available and consumed licenses report for MS partners",
+    "UpdatedDate": "2015-12-1T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-&-office365-available-and-consumed-licenses-report-for-ms-partners",
+    "UserTags": "Azure, Office 365, Reporting"
+}
